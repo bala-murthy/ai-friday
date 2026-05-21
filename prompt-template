@@ -1,0 +1,107 @@
+— PROBLEM STATEMENT - START - 
+
+    COPY AND PASTE PROBLEM STATEMENT FROM QUESTIONNAIRE IN THIS PLACE
+
+ 
+
+— PROBLEM STATEMENT - END  -
+
+ 
+
+ 
+
+Analyze the above problem statement from the perspective of a hackathon solution architect and enterprise AI engineer.
+
+ 
+
+Considering the evaluation criteria, expected business value, presentation quality, technical depth, usability, and innovation potential, recommend the most effective end-to-end solution approach.
+
+Your response should include:
+
+ 
+
+1. A step-by-step implementation strategy optimized for hackathon execution.
+
+2. Recommended approach for generating high-quality synthetic input data using LLMs such as ChatGPT or Gemini.
+
+3. Best practices for using LLMs to generate accurate, context-aware, and professional output artifacts.
+
+4. Recommended output format(s) best suited for this use case, considering the following aspect and strictly as per the requirements in the problem statement.
+
+    * readability
+
+    * professional presentation
+
+    * navigation experience
+
+    * visual appeal
+
+    * executive usability
+
+    * interactivity
+
+5. Guidance on when to use:
+
+    * HTML dashboards
+
+    * PDFs
+
+    * PowerPoint presentations
+
+    * knowledge documents
+
+    * emails
+
+    * infographics
+
+    * spreadsheets
+
+    * markdown files
+
+6. Industry-standard AI engineering approaches that should be followed, including:
+
+    * reusable Markdown (.md) framework files
+
+    * prompt orchestration
+
+    * modular prompt design
+
+    * governance-aware prompting
+
+    * workflow-based AI generation
+
+    * template-driven generation
+
+    * structured output generation
+
+7. Recommended UI/UX approach for maximizing hackathon presentation impact.
+
+8. Suggested architecture, workflow, folder structure, and reusable components if applicable.
+
+9. Recommended visualization methods, dashboard styles, charts, diagrams, or process-flow representations where relevant.
+
+10. Key differentiators that can make the solution appear production-grade, enterprise-ready, and technically mature.
+
+ 
+
+The solution recommendations should prioritize:
+
+* practical implementation within hackathon timelines
+
+* strong visual presentation
+
+* enterprise realism
+
+* scalability
+
+* AI-driven automation
+
+* operational usability
+
+* governance and compliance awareness
+
+* modular and reusable design patterns
+
+ 
+
+Ensure the response is detailed, structured, implementation-oriented, and aligned with modern enterprise GenAI solution design principles. Include prompts wherever needed for example to generate synthetic input data, MD file and output with detailed instructions that can be readily used.
