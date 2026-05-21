@@ -1,0 +1,30 @@
+Give a detailed prompt for the scenario mentioned below. Scenario: Write an email to HR about your concern regarding incorrect payroll deduction in last month’s salary. Basic pay is INR 10000 less compared to less month.The email tone must be professional, express deep dissatisfaction and requesting quick attention and reply from HR.
+************
+create a synthetic spreadsheet-like dataset with at least 25 rows and at least 8 columns. Recommended columns include Employee ID, Employee name, department/location, HR case type, request received date, status, aging, owner, dependency team, SLA status, risk level, and remarks/next action.
+
+************
+
+Opportunity ID, Purchase Order Date, Planned Revenue, Actual Revenue, Utilized budget, Opportunity status.
+Above are the headers of my dataset. Opportunit status column can take values among Started, Closed, Failed, Pending
+Create an interactive dashboard in HTML format with upload option for data set. The file can be a excel or CSV file.
+Create 5 KPIs, 5 advanced visuals, Slicers and timelines. 
+Give options to do deep analysis in the dashboard.
+************
+Create a downloadable CSV file with the below columns and include 5 records in it.
+************
+Create a production grade MD file for  building an interactive FP&A dashboard. Include detailed instructions on how to use it for a new user starting to use ChatGPT. 
+Before you reply, if you have any questions to prepare the MD file, ask me.
+************
+
+Use the uploaded FP&A implementation guide as the reference framework.
+Analyze the uploaded dataset and generate:
+an interactive downloadable HTML dashboard
+KPI cards
+revenue trend charts
+margin analysis
+forecast variance analysis
+quarterly target tracking
+deep financial insights
+risk analysis
+CFO-style executive summary
+Use HTML, CSS, JavaScript, and Chart.js.
